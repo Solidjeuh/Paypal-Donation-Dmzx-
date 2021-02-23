@@ -2,7 +2,7 @@
 /**
 *
 * @package phpBB Extension - Paypal Donation
-* @copyright (c) 2016 dmzx - http://www.dmzx-web.net
+* @copyright (c) 2016 dmzx - https://www.dmzx-web.net
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
@@ -37,14 +37,14 @@ $lang = array_merge($lang, array(
 	'VIEWING_DONATE'						=> 'Bekijkt donatie pagina',
 	'DONATION_DISABLED'						=> 'Sorry, de donatie pagina is momenteel niet beschikbaar',
 	'DONATION_DISABLED_EMAIL'				=> 'Paypal e-mailaccount niet geconfigureerd. Gelieve de forum beheerder te contacteren.',
-	'DONATION_NOT_INSTALLED_USER'			=> 'De donatie pagina is niet ge&iuml;nstalleerd. Gelieve de forum beheerder te contacteren.',
+	'DONATION_NOT_INSTALLED_USER'			=> 'De donatie pagina is niet geïnstalleerd. Gelieve de forum beheerder te contacteren.',
 	'DONATION_TITLE'						=> 'Doe een donatie',
 	'DONATION_CANCELLED_TITLE'				=> 'Donatie geannuleerd',
 	'DONATION_SUCCESSFULL_TITLE'			=> 'Donatie succesvol',
 	'DONATION_CONTACT_PAYPAL'				=> 'Verbinden met Paypal - Even geduld…',
-	'DONATION_BODY_DEFAULT'					=> 'Doe aub een donatie aan deze site om ons te steunen en ons te helpen met de server kosten.',
+	'DONATION_BODY_DEFAULT'					=> 'Doe a.u.b. een donatie aan deze site om ons te steunen en ons te helpen met de server kosten.',
 	'DONATION_SUCCESS_DEFAULT'				=> 'Bedankt voor de donatie, deze is zeer gewaardeerd.',
-	'DONATION_CANCEL_DEFAULT'				=> 'Je hebt je donatie geannuleerd. Dat is geen enkel probleem, maar overweeg aub een donatie in de toekomst.',
+	'DONATION_CANCEL_DEFAULT'				=> 'Je hebt je donatie geannuleerd. Dat is geen enkel probleem, maar overweeg a.u.b. een donatie in de toekomst.',
 	'DONATIONS_INDEX'						=> 'Donaties',
 	'DONATION_USD'							=> '$ USD',
 	'DONATION_EUR'							=> '€ EUR',
